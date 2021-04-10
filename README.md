@@ -1,4 +1,4 @@
 To start Sanity studio:
 
-cd studio
+cd studio<br>
 sanity start
